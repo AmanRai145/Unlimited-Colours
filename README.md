@@ -1,5 +1,5 @@
 NAME: 
-Unlimited Colors
+Unlimited Colors for you
 
 About the project in points:
 1.) A basic Javascript project.
